@@ -113,7 +113,9 @@ b.max-bold{ font-weight: 700; }
 
 .font-green{ color: #439422; }
 
-.font-dark-green{ color: #296833}
+.font-dark-green{ color: #296833;}
+
+.font-gray{ color: #333333;}
 
 .center-text{ text-align: center; }
 
