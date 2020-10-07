@@ -68,7 +68,9 @@ b{ font-weight: 600; }
 
 img{ width: 100%; }
 
-li{ list-style: none;  }
+li{ list-style: none; }
+
+#list-1 li{display: inline-block;}
 
 span{ display: inline-block; }
 
@@ -116,6 +118,8 @@ b.max-bold{ font-weight: 700; }
 .font-dark-green{ color: #296833;}
 
 .font-gray-2{ color: #777777;}
+
+.font-purple{ color: #28023D;}
 
 .center-text{ text-align: center; }
 
@@ -191,7 +195,7 @@ b.max-bold{ font-weight: 700; }
 5. EXPERIENCE SECTION
 --------------------------------- */
 
-.experience-section{ background: #FAF5FC; }
+.experience-section{ background: #28023D; color: #fff; }
 
 .experience .list > li{ display: block; position: relative; margin-bottom: 10px; }
 
