@@ -94,7 +94,7 @@ b.max-bold{ font-weight: 700; }
 
 .section .heading:before{ content:''; height: 10px; width: 50px; border-radius: 5px;
 	margin: 0 auto 20px; display: block; background: #439422; }
-	
+		
 .margin-t-10{ margin-top: 10px; }
 .margin-t-30{ margin-top: 30px; }
 
@@ -197,6 +197,8 @@ b.max-bold{ font-weight: 700; }
 
 .experience-section{ background: #28023D; color: #fff; }
 
+#experience-section-1{background: #174408; color: #fff; }
+
 .experience .list > li{ display: block; position: relative; margin-bottom: 10px; }
 
 .experience .list > li > span{ position: relative; padding-left: 20px; }
@@ -257,7 +259,10 @@ b.max-bold{ font-weight: 700; }
 --------------------------------- */
 
 .quoto-section{ padding: 80px 0; position: relative; background-size: cover; 
-	z-index: 1; background-image: url(../../images/slider-4-1920x600.jpg); color: #fff; }
+	z-index: 1; background: #439422; color: #fff; }
+
+#quoto-section-1{padding: 80px 0; position: relative; background-size: cover; 
+	z-index: 1; background-image:  url(../../images/slider-4-1920x600.jpg); color: #fff; }
 
 .quoto-section:before{ content:''; z-index: -1; position: absolute; top: 0; bottom: 0; left: 0; 
 	right: 0; background: rgba(0,0,0, .8); }
@@ -271,8 +276,8 @@ b.max-bold{ font-weight: 700; }
 9. SKILLS SECTION
 --------------------------------- */
 
-.skills-section .expert{ margin-top: 10px; display: inline-block; padding: 1px 25px 0; 
-	border-radius: 5px; background: #439422; color: #fff; }
+.skills-section .expert{ margin-top: 10px; display: inline-block; padding: 1px 15px 0; 
+	border-radius: 5px; background:  #28023D; color: #fff;}
 
 	
 /* LINE PROGRESSBAR */
@@ -310,5 +315,5 @@ b.max-bold{ font-weight: 700; }
 10. FOOTER
 --------------------------------- */
 
-.copyright{ text-align: center; padding: 30px 0; background: #28023D; }
+.copyright{ text-align: center; padding: 30px 0; background: #163609; }
 
