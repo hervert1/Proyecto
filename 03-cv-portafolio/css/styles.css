@@ -68,7 +68,7 @@ b{ font-weight: 600; }
 
 img{ width: 100%; }
 
-li{ list-style: none; display: inline-block; }
+li{ list-style: none;  }
 
 span{ display: inline-block; }
 
@@ -115,7 +115,7 @@ b.max-bold{ font-weight: 700; }
 
 .font-dark-green{ color: #296833;}
 
-.font-gray{ color: #333333;}
+.font-gray-2{ color: #777777;}
 
 .center-text{ text-align: center; }
 
